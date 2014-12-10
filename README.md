@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This is a test repo for use in Coursera Class, lecture "Creating a GitHub Repository"
+This is a test repo for use in Coursera class, lecture, "Creating a GitHub Repository"
